@@ -9,6 +9,7 @@
     "url": "https://www.form5500lookup.com"
   },
   "homepage": "https://www.form5500lookup.com/connector",
+  "documentationUrl": "https://www.form5500lookup.com/connector",
   "repository": "https://github.com/harperai/form5500lookup-plugin",
   "license": "MIT",
   "keywords": [
