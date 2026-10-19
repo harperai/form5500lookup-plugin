@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "form5500lookup": {
+      "type": "http",
+      "url": "https://www.form5500lookup.com/api/mcp"
+    }
+  }
+}

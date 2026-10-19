@@ -1,0 +1,19 @@
+{
+  "name": "form5500lookup",
+  "owner": {
+    "name": "Harper AI, Inc.",
+    "email": "support@form5500lookup.com"
+  },
+  "metadata": {
+    "description": "The Form5500Lookup plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "form5500lookup",
+      "source": "./",
+      "description": "Employer benefit plans, brokers, carriers and renewal months from public Form 5500 filings.",
+      "category": "productivity",
+      "tags": ["employee-benefits", "insurance", "form-5500"]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "form5500lookup",
+  "displayName": "Form5500Lookup",
+  "version": "0.1.0",
+  "description": "For employee benefits brokers. Look up any employer's benefit plans in public Form 5500 filings: the broker of record, the carriers on each line of coverage, how many people each contract covers, and when the policy year ends. Build renewal lists by state and month, and read a broker's book of business.",
+  "author": {
+    "name": "Harper AI, Inc.",
+    "email": "support@form5500lookup.com",
+    "url": "https://www.form5500lookup.com"
+  },
+  "homepage": "https://www.form5500lookup.com/connector",
+  "repository": "https://github.com/harperai/form5500lookup-plugin",
+  "license": "MIT",
+  "keywords": [
+    "form-5500",
+    "employee-benefits",
+    "insurance",
+    "benefits-broker",
+    "renewals",
+    "schedule-a",
+    "prospecting"
+  ],
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://www.form5500lookup.com/support",
+  "privacyPolicyUrl": "https://www.form5500lookup.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.form5500lookup.com/legal/terms"
+}
